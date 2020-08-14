@@ -74,4 +74,5 @@
 
 # For project details
 
-### [checkout WIKI](https://github.com/codestates/Memory_log-client/wiki)
+### [Checkout WIKI](https://github.com/Kyung-douhyun/Memory_log-C/wiki)
+### [Checkout Server Side Code](https://github.com/Kyung-douhyun/Memory_log-S)

@@ -74,5 +74,5 @@
 
 # For project details
 
-### [Checkout WIKI](https://github.com/Kyung-douhyun/Memory_log-C/wiki)
+### [Checkout WIKI](https://github.com/Kyung-Douhyun/Memory.log-C/wiki)
 ### [Checkout Server Side Code](https://github.com/Kyung-douhyun/Memory_log-S)
